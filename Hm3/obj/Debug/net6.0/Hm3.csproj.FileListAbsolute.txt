@@ -1,0 +1,15 @@
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.csproj.AssemblyReference.cache
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.AssemblyInfoInputs.cache
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.AssemblyInfo.cs
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.csproj.CoreCompileInputs.cache
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\bin\Debug\net6.0\Hm3.exe
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\bin\Debug\net6.0\Hm3.deps.json
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\bin\Debug\net6.0\Hm3.runtimeconfig.json
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\bin\Debug\net6.0\Hm3.dll
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\bin\Debug\net6.0\Hm3.pdb
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.dll
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\refint\Hm3.dll
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.pdb
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\Hm3.genruntimeconfig.cache
+C:\Users\Laimisgood\Documents\C#\lesson5(HM)\Hm3\obj\Debug\net6.0\ref\Hm3.dll
